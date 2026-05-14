@@ -19,8 +19,5 @@ Lofenta is built for teams and developers who want the control of self-hosting w
 ## Learn more
 
 - Documentation: https://lofenta.com/docs
-- GitHub organization: https://github.com/Lofenta
-
----
 
 Thanks for stopping by.
