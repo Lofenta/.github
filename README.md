@@ -2,24 +2,24 @@
 
 Welcome to **Lofenta** 👋
 
-This organization is the home for Lofenta projects, experiments, and reusable tooling. It is a place for building practical software, exploring new ideas, and sharing work in public as the ecosystem grows.
+Lofenta is a **self-hosted deployment platform** that takes your GitHub repository and turns it into a running service. It automatically builds your app, containerises it, and routes traffic so you can go from source code to a live deployment with less setup and less operational overhead.
 
-## What you'll find here
+## What Lofenta does
 
-- **Open source projects** built under the Lofenta name
-- **Experiments and prototypes** for new ideas
-- **Shared tooling and automation** to support development workflows
-- **Documentation and community-facing resources** as the organization expands
+- Connect a GitHub repository
+- Build the application automatically
+- Package it into a container image
+- Deploy it as a running service
+- Route incoming traffic to your app
 
-## Current focus
+## Why Lofenta
 
-Lofenta is just getting started, so this space is intentionally simple for now. More repositories, documentation, and project details will appear here over time.
+Lofenta is built for teams and developers who want the control of self-hosting without stitching together every deployment step by hand. It provides a straightforward path from repository to production-ready service while keeping infrastructure ownership in your hands.
 
-## Follow along
+## Learn more
 
-- Explore the repositories in this organization
-- Watch for updates as new projects are published
-- Star anything you find useful
+- Documentation: https://lofenta.com/docs
+- GitHub organization: https://github.com/Lofenta
 
 ---
 
